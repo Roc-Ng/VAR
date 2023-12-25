@@ -3,7 +3,7 @@ This is the official project website of our paper:
 **Towards Video Anomaly Retrieval from Video Anomaly Detection: New Benchmarks and Model**  
 > Peng Wu, Jing Liu _Senior Member, IEEE_, Xiangteng He, Yuxin Peng _Senior Member, IEEE_, Peng Wang, and Yanning Zhang _Senior Member, IEEE_
 
-![framework](data/framework.png)
+![framework](framework.png)
 
 ## UCF-Crime Captions
 UCFCrime-AR Captions are released to facilitate future research.
