@@ -7,6 +7,10 @@ This is the official project website of our paper:
 
 ## UCF-Crime Captions
 UCFCrime-AR Captions are released to facilitate future research.
+## Features
+[I3D features of UCFCrime-AR](https://stuxidianeducn-my.sharepoint.com/:f:/g/personal/pengwu_stu_xidian_edu_cn/EvYcZ5rQZClGs_no2g-B0jcB4ynsonVQIreHIojNnUmPyA?e=xNrGxc)
+[I3D&VGGish features of XDViolence-AR](https://roc-ng.github.io/XD-Violence/)
+
 ## Highlight
 - We introduce a new task named video anomaly retrieval to bridge the gap between the literature and real-world applications in terms of video anomaly analysis. To our knowledge, this is the first work moves towards VAR from VAD;
 - We present two large-scale benchmarks, i.e., UCFCrime- AR and XDViolence-AR, based on public VAD datasets. The former is applied to video-text VAR, the latter is to video-audio VAR;
